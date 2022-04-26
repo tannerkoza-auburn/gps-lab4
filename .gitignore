@@ -1,0 +1,5 @@
+# Ignore Bin Files
+*.bin
+
+# Ignore ASV
+*.asv
